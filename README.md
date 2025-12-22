@@ -1,4 +1,4 @@
-@ethwinch (he/they) | NYC👋 | <a href="https://www.linkedin.com/in/ethan-winch1/">LinkedIn</a>
+@ethwinch (he/they) | NYC👋 | <a href="https://www.linkedin.com/in/ethan-winch1/" target="_blank">LinkedIn</a>
 
 I get fulfillment from creating programs that are useful and account for the different ways people interact with technology across age, ability, and experience. 
 
