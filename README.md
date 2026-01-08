@@ -5,5 +5,5 @@ I get fulfillment from creating programs that are useful and account for the dif
 I have experience in Python, C++, HTML/CSS/JavaScript, MySQL, PHP, Machine Learning, and am always picking up new languages along the way. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethwinch&commits_year=2025&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ethwinch"/> <!-- &commits_year=2025&theme=dark -->
 </a>
