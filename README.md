@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=htmx&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=null&logoColor=white&color=15D1A0)
+![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=macos&logoColor=white&color=15D1A0)
 <br>
 
 I love creating programs that are useful and account for the different ways people interact with technology across age, ability, and experience. 
