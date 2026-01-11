@@ -2,6 +2,7 @@
 <br>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=15D1A0)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=htmx&logoColor=white&color=15D1A0)
 <br>
 
 I love creating programs that are useful and account for the different ways people interact with technology across age, ability, and experience. 
