@@ -16,6 +16,6 @@ I have experience in Python, C++, HTML/CSS/JavaScript, MySQL, PHP, Machine Learn
 
 <b>Projects</b>
 <ul>
-  <li>Matcha Majesty website 🢂 https://matcha-majesty.github.io/index.html</li>
-  <li>PVCG website 🢂 https://pleasant-village-community-garden.github.io/</li>
+  <li>Matcha Majesty website 🡺 https://matcha-majesty.github.io/index.html</li>
+  <li>PVCG website 🡺 https://pleasant-village-community-garden.github.io/</li>
 </ul>
