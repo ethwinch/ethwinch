@@ -6,8 +6,14 @@
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=htmx&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=15D1A0)
 
-![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=00ffff)
-![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=00ffff)
+![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ff00ff)
+![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=ff00ff)
+
+<!-- 
+cyan: 00ffff
+magenta: ff00ff
+yellow: ffff00
+-->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=280459)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=null&logoColor=white&color=280459)
