@@ -8,6 +8,8 @@
 
 ![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ff00ff)
 ![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=ff00ff)
+![](https://img.shields.io/badge/ML-MediaPipe-informational?style=flat&logo=mediapipe&logoColor=white&color=ff00ff)
+
 
 <!-- 
 cyan: 00ffff
