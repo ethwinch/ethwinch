@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=htmx&logoColor=white&color=15D1A0)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=15D1A0)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=23280459)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=15D1A0)
 
 
 <!--
